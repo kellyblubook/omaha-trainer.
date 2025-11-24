@@ -1,0 +1,2 @@
+# omaha-trainer.
+Training app
